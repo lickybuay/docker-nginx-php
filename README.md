@@ -1,5 +1,5 @@
 # Docker Ngnix PHP 8
-Docker Image made for a project startup using ngnix with php 8.
+Docker Image made for a project startup using ngnix with php 8 (With mysqli pdo pdo_mysql pdo_pgsql pgsql Support ).
 
 If you need more help working with docker, please check the official documentation in
 [https://docs.docker.com/](https://docs.docker.com/).
